@@ -1,2 +1,2 @@
 # webProjects
-The main focus of this repo is web-development and other related aspects.
+The main focus of this repo is on web-development.
